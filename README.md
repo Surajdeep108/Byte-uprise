@@ -1,1 +1,1 @@
-# Byte-uprise
+# Byte-uprise weather app
